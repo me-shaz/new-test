@@ -1,9 +1,9 @@
 a = 6
 b = 8
 c = 10
+d = 12 
 
+sum = a + b + C + d
 
-sum = a + b + C
-
-print ("Sum of three numbers") = sum
+print ("Sum of four numbers") = sum
 
