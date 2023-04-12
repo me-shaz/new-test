@@ -3,7 +3,7 @@ b = 8
 c = 10
 
 
-sum = a + b
+sum = a + b + C
 
-print ("Sum of two numbers") = sum
+print ("Sum of three numbers") = sum
 
